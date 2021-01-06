@@ -6,3 +6,10 @@ In this part very complex data preprocessing is done and please go to this [file
 
 # Architecture of the model_1
 ![alt text](https://github.com/sanjaybasak0/images/blob/main/document_model_1.png)
+
+In the model_1, we have used word embedding.To measure the model's performance we have used F1 score.After training we got training F1 score = 0.8849 and test F1 score = 0.7034.
+
+# Architecture of the model_2
+![alt text](https://github.com/sanjaybasak0/images/blob/main/document_model_2.png)
+
+In the model_2, we have used character level embedding.To measure the model's performance we have F1 score.After training we got training F1 score = 0.3538 and test F1 score = 0.1189.
